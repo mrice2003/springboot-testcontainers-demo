@@ -17,10 +17,6 @@ $ docker version
 ...
 Server: Docker Desktop 4.12.0 (85629)
  Engine:
-  Version:          20.10.17
-  API version:      1.41 (minimum version 1.12)
-  Go version:       go1.17.11
-...
 ```
 
 ## 2. Setup Project
